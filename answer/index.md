@@ -7,7 +7,7 @@
 这里还没有任何内容……
 
 ## 英语
-### Teens报纸 [[点击此处进行查询]](http://www.seyay.icu/answer/id_1 "[点击此处进行查询]")
+### Teens报纸 [[点击此处进行查询]](https://paper.i21st.cn/m/qt.html?o=je "[点击此处进行查询]")
 
 ## 地理
 这里还没有任何内容……
