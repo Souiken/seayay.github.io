@@ -3,11 +3,22 @@
 <head>
 	<meta charset="utf-8">
 	<title>Seayay . github</title>
-	<link rel="stylesheet" type="text/css" href="index.css" >
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="stylesheet" type="text/css" href="/popup/popup.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 </head>
 <body>
-	<noscript><strong>看什么看啦！还不是都怪你没开Javascript！</strong><hr><strong>哼！不理你了！</strong></noscript>
+	<div class="popup_text" onclick="checkCookie()">请打开 Cookie 以及 JavaScript 获取最佳体验。</div>
+    <div class="popup" id="popup">提示</div>
+    <script type="text/javascript" src="/popup/popup.js"></script>
+    <script type="text/javascript">
+        var close = document.getElementById('popup')
+        close.onclick=function(){
+            console.log('1');
+            close.style.display = 'none'
+            setCookie('username',true,1)
+        }
+    </script>
 	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
 	<script src="/snow.js"></script>
 	<div id="cursor"></div>
