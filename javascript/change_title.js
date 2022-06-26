@@ -5,7 +5,7 @@ document.addEventListener('visibilitychange', function () {
     } else {
       setTimeout(() => {
         document.title = '你回来了!q(≧▽≦q)';
-      }, 2000);
+      }, 0);
       setTimeout(() => {
         document.title = 'GitHub@Seayay';
       }, 3000);
