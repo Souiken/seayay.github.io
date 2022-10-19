@@ -22,10 +22,11 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Copy Sources
-        run: 
-          sudo cp -r ./images ./public
-          sudo cp -r ./medias ./public
+      - name: Copy Images
+        run: sudo cp -r ./images ./public
+
+      - name: Copy Medias
+        run: sudo cp -r ./medias ./public          
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
