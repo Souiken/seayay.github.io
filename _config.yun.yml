@@ -80,12 +80,12 @@ google_analytics:
   id: G-5VCKPEK8E4
 
 google_adsense:
-  enable: true
+  enable: false
   client: ca-pub-5138150202544751
 
 post_edit:
   enable: true
-  url: https://github.com/Seayay/blog.seayay.icu/tree/main/source/_posts/
+  url: https://github.com/Seayay/blog.seayay.icu/tree/main/source/
 
 albums:
   enable: true
