@@ -11,6 +11,8 @@ description: 一些前言以及友链申请相关问题
 
 ## 友链相关
 
+> 存储库迁移，暂时关闭
+
 友链申请已经开放了，直接在 [GitHub Discussions](https://github.com/Seayay/blog.seayay.icu/discussions/5) 按照以下格式回复即可！
 网址: https://your-website.com
 名称: 
