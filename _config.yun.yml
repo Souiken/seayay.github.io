@@ -44,7 +44,7 @@ comment:
     - waline
     # - giscus
   tips:
-    - 如果您有任何关于博客内容的相关讨论，欢迎前往 <a href="https://github.com/Seayay/blog.seayay.icu/discussions" target="_blank">GitHub Discussions</a> 与我交流。
+    - 如果您有任何关于博客内容的相关讨论，欢迎前往 <a href="https://github.com/Seayay/seayay.github.io/discussions" target="_blank">GitHub Discussions</a> 与我交流。
 
 waline:
   enable: false
@@ -65,7 +65,7 @@ github_issues:
 github_discussions:
   enable: true
   username: Seayay
-  repository: blog.seayay.icu
+  repository: seayay.github.io
 
 footer:
   since: 2022
@@ -85,7 +85,7 @@ google_adsense:
 
 post_edit:
   enable: true
-  url: https://github.com/Seayay/blog.seayay.icu/tree/main/source/
+  url: https://github.com/Seayay/seayay.github.io/tree/main/source/
 
 albums:
   enable: true
