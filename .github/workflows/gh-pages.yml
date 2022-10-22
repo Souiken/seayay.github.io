@@ -20,7 +20,7 @@ jobs:
         run: npm install
 
       - name: Delete Public Folders
-        run: sudo rm rf ./public
+        run: sudo rm -rf ./public
 
       - name: Build
         run: npm run build
