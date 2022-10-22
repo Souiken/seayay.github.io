@@ -1,5 +1,5 @@
 ---
-title: 在这里交换友链！
+title: 在这里交换友链
 author: 思遥方 Seayay
 toc: false
 description: 友链交换相关问题
