@@ -19,6 +19,9 @@ jobs:
       - name: Install
         run: npm install
 
+      - name: Delete Public Folders
+        run: sudo rm rf ./public
+
       - name: Build
         run: npm run build
 
