@@ -18,8 +18,8 @@ links:
     name: XieXiLin
     blog: XieXiLin's Home
     desc: 一个屑初三学生的个人主页。
-    color:
-    email:
+    color: green
+    email: xiexilin158@qq.com
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
