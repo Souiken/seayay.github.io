@@ -12,6 +12,14 @@ links:
     blog: 大蛋糕的烘培坊
     desc:
     color: '#f5c979' # 代表色
+    email:
+  - url: https://www.xiexilin.cn
+    avatar: https://www.xiexilin.cn/favicon.png
+    name: XieXiLin
+    blog: XieXiLin's Home
+    desc: 一个屑初三学生的个人主页。
+    color:
+    email:
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
