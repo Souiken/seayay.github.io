@@ -20,8 +20,7 @@ links:
     desc: 一个屑初三学生的个人主页。
     color: green
     email: xiexilin158@qq.com
-  - url: https://ztsin.icu/
-    avatar: https://s1.ax1x.com/2022/10/22/xc03ee.jpg
+  - url: https://ztsin.icu
     name: Z_Tsin
     blog: Z_Tsin's Home
     color: blue
