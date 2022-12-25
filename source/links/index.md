@@ -20,11 +20,6 @@ links:
     desc: 一个屑初三学生的个人主页。
     color: green
     email: xiexilin158@qq.com
-  - url: https://ztsin.icu
-    name: Z_Tsin
-    blog: Z_Tsin's Home
-    color: blue
-    desc: 蘑菇森林的尽头，新世界的起点
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
