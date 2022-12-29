@@ -45,10 +45,10 @@ engine_search:
   domain: seayay.icu
 
 trianglify:
-  enable: false
+  enable: true
   cellSize: 75
-  width: 800
-  height: 600
+  width: 1920
+  height: 1080
   palette: '["YlGnBu", "GnBu", "Purples", "Blues"]'
   opacity: 0.5
 
