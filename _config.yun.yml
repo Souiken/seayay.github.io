@@ -39,6 +39,11 @@ reward:
       color: '#2DC100'
       icon: ri:wechat-pay-line
 
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  dark: https://seayay.icu/images/background.jpg
+
 comment:
   candidates:
     - waline
