@@ -42,15 +42,7 @@ reward:
 engine_search:
   enable: true
   href: 'https://www.bing.com/search?q=site:'
-  domain: seayay.icu
-
-trianglify:
-  enable: true
-  cellSize: 75
-  width: 1920
-  height: 1080
-  palette: '["YlGnBu", "GnBu", "Purples", "Blues"]'
-  opacity: 0.5
+  domain: www.seayay.icu
 
 fireworks:
   enable: true
