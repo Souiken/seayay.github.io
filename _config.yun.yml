@@ -39,16 +39,13 @@ reward:
       color: '#2DC100'
       icon: ri:wechat-pay-line
 
-bg_image:
-  enable: false
-
 engine_search:
   enable: true
   href: 'https://www.bing.com/search?q=site:'
   domain: seayay.icu
 
 trianglify:
-  enable: true
+  enable: false
   cellSize: 75
   width: 800
   height: 600
