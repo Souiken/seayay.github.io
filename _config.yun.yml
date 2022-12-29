@@ -130,7 +130,7 @@ say:
   api: https://el-bot-api.vercel.app/api/words/young
   hitokoto:
     enable: true
-    api: https://v1.hitokoto.cn
+    api: https://v1.hitokoto.cn/?c=a&c=b&c=c&c=d
 
 social:
   - name: RSS
