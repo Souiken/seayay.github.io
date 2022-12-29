@@ -44,6 +44,11 @@ engine_search:
   href: 'https://www.bing.com/search?q=site:'
   domain: www.seayay.icu
 
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  dark: https://api.isoyu.com/bing_images.php
+
 fireworks:
   enable: true
   colors:
