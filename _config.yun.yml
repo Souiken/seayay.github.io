@@ -44,7 +44,7 @@ bg_image:
 
 engine_search:
   enable: true
-   href: 'https://www.bing.com/search?q=site:'
+  href: 'https://www.bing.com/search?q=site:'
   domain: seayay.icu
 
 trianglify:
