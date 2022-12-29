@@ -40,9 +40,29 @@ reward:
       icon: ri:wechat-pay-line
 
 bg_image:
+  enable: false
+
+engine_search:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
-  dark: https://seayay.icu/images/background.jpg
+  # href: 'https://www.google.com/search?q=site:'
+  # href: "https://www.baidu.com/s?wd=site:"
+   href: "https://www.bing.com/search?q=site:"
+  domain: seayay.icu
+
+trianglify:
+  enable: true
+  cellSize: 75
+  width: 800
+  height: 600
+  palette: '["YlGnBu", "GnBu", "Purples", "Blues"]'
+  opacity: 0.5
+
+fireworks:
+  enable: true
+  colors:
+    - '102, 167, 221'
+    - '62, 131, 225'
+    - '33, 78, 194'
 
 comment:
   candidates:
