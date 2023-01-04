@@ -20,6 +20,14 @@ links:
     desc: 一个屑初三学生的个人主页。
     color: green
     email: xiexilin158@qq.com
+  - url: https://blog.soda.net.cn/
+    avatar: https://blog.soda.net.cn/img/souiken.jpg
+    name: Souiken
+    blog: Souiken's Blog
+    desc：The website only is a blog.
+    color: #d2f043
+    email: souiken@qq.com
+    
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
