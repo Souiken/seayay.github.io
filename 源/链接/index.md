@@ -24,7 +24,7 @@ links:
     avatar: https://blog.soda.net.cn/img/souiken.jpg
     name: Souiken
     blog: Souiken's Blog
-    desc：The website only is a blog.
+    desc: The website only is a blog.
     color: #d2f043
     email: souiken@qq.com
 placeholder: 还没想好说些什么 # 默认对友链的描述
