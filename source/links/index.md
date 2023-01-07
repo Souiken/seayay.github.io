@@ -27,6 +27,13 @@ links:
     desc: The website only is a blog.
     color: #d2f043
     email: souiken@qq.com
+  - url: https://www.shwx52.icu
+    avatar: https://gravatar.loli.net/avatar/5f3e04a68fda590a22394f0840ffaa59?s=60&d=mm&r=G
+    name: shwx52
+    blog: shwx52の小窝
+    color: blue
+    desc:"奇迹？缘分！"
+    email:sheepxray@vip.qq.com
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
