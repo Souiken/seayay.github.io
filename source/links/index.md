@@ -33,7 +33,7 @@ links:
     blog: shwx52の小窝
     color: blue
     desc: "奇迹？缘分！"
-    email:sheepxray@vip.qq.com
+    email: sheepxray@vip.qq.com
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
