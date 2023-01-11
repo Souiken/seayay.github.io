@@ -32,8 +32,13 @@ links:
     name: shwx52
     blog: shwx52の小窝
     color: blue
-    desc: "奇迹？缘分！"
+    desc: 奇迹？缘分！
     email: sheepxray@vip.qq.com
+  - url: https://mailset.top
+    avatar: https://mailset.top/img/favicon.png
+    name: mail_set
+    blog: mail_set的宅窝
+    desc: Try It And See™
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
