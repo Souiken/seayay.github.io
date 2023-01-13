@@ -39,6 +39,12 @@ links:
     name: mail_set
     blog: mail_set的宅窝
     desc: Try It And See™
+  - url: https://blog.crneilns.top/
+    avatar: https://user-images.githubusercontent.com/104747696/211587915-78c276b7-9114-4384-98fc-9f0d0fcb4725.jpeg
+    name: CrnEilns
+    blog: CrnEilns 饮茶室
+    color: Blue
+    desc: 这个猫傻掉了捏
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
