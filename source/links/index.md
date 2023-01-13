@@ -21,7 +21,7 @@ links:
     color: green
     email: xiexilin158@qq.com
   - url: https://blog.soda.net.cn/
-    avatar: https://blog.soda.net.cn/img/souiken.jpg
+    avatar: https://blog.soda.net.cn/images/souiken.jpg
     name: Souiken
     blog: Souiken's Blog
     desc: The website only is a blog.
